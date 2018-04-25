@@ -74,10 +74,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(5, 'Salitha Chathuranga', 'salithachathuranga94@gmail.com', '$2y$10$3GhzenR01ROU/5xeSppb8O570wo9.X0kvgglujG1f0rvyHmi7xzgO', 'FtxXkK6udZVOEFn9HQONW6q4TyuOry0uzTrKHtvquJUaRnpNLCOviAbYxXKu', '2018-04-21 10:50:45', '2018-04-21 10:50:45'),
-(6, 'Tech Pool', 'techpool94@gmail.com', '$2y$10$3GhzenR01ROU/5xeSppb8O570wo9.X0kvgglujG1f0rvyHmi7xzgO', 'wNPvgonjKOQ2jrlJT261kn2VMOjsYhEvh5mI39spTIu7WfNUKGfyD0Bjro8b', '2018-04-21 10:51:18', '2018-04-21 10:51:18');
-
 --
 -- Indexes for dumped tables
 --
